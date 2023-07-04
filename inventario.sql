@@ -41,12 +41,14 @@ CREATE TABLE `categorias` (
 --
 
 INSERT INTO `categorias` (`id`, `categoria`, `fecha`) VALUES
-(1, 'Equipos Electromecánicos', '2017-12-21 20:53:29'),
-(2, 'Taladros', '2017-12-21 20:53:29'),
-(3, 'Andamios', '2017-12-21 20:53:29'),
-(4, 'Generadores de energía', '2017-12-21 20:53:29'),
-(5, 'Equipos para construcción', '2017-12-21 20:53:29'),
-(6, 'Martillos mecánicos', '2017-12-21 23:06:40');
+(1, 'Base de maquillaje', '2017-12-21 20:53:29'),
+(2, 'Correctores', '2017-12-21 20:53:29'),
+(3, 'Preparación del rostro', '2017-12-21 20:53:29'),
+(4, 'Máscara de pestañas', '2017-12-21 20:53:29'),
+(5, 'Delineadores', '2017-12-21 20:53:29'),
+(6, 'Labiales', '2017-12-21 23:06:40'),
+(7, 'Cuidado de las brochas y herramientas de maquillaje', '2017-12-21 23:06:40'),
+(8, 'Cuidado facial', '2017-12-21 23:06:40');
 
 -- --------------------------------------------------------
 

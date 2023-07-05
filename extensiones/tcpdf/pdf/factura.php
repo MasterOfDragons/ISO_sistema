@@ -63,7 +63,7 @@ $bloque1 = <<<EOF
 		
 		<tr>
 			
-			<td style="width:150px"><img src="images/logo.avif"></td>
+			<td style="width:110px"><img src="images/logo.jpg"></td>
 
 			<td style="background-color:white; width:140px">
 				
@@ -87,7 +87,7 @@ $bloque1 = <<<EOF
 					Teléfono: 300 786 52 49
 					
 					<br>
-					ventas@inventorysystem.com
+					ventas@galystudio.com
 
 				</div>
 				

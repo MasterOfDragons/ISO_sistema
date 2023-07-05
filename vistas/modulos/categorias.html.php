@@ -54,7 +54,7 @@
 
             <td>1</td>
 
-            <td>EQUIPOS ELECTROMECÁNICOS</td>
+            <td>Equipos de maquillaje</td>
 
             <td>
 
@@ -74,7 +74,7 @@
 
             <td>1</td>
 
-            <td>EQUIPOS ELECTROMECÁNICOS</td>
+            <td>Equipos de maquillaje</td>
             
             <td>
 
@@ -94,7 +94,7 @@
 
             <td>1</td>
 
-            <td>EQUIPOS ELECTROMECÁNICOS</td>
+            <td>Equipos de maquillaje</td>
             
             <td>
 

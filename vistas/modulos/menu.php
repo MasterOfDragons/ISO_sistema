@@ -137,7 +137,13 @@
 			</li>';
 
 		}
+		echo '<li>
+		<a href="ayuda">		
+		<i class="fa fa-circle-o"></i>
+		<span>Ayuda</span>
 
+		</a>
+		</li>';
 		?>
 
 		</ul>

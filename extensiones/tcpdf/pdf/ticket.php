@@ -71,10 +71,10 @@ $bloque1 = <<<EOF
 				Fecha: $fecha
 
 				<br><br>
-				Inventory System
+				Sistema Galy Studio
 				
 				<br>
-				NIT: 71.759.963-9
+				RUC: J03234567
 
 				<br>
 				Dirección: Calle 44B 92-11
@@ -177,7 +177,7 @@ $bloque3 = <<<EOF
 	<tr>
 	
 		<td style="width:160px;">
-			 --------------------------
+			 ----------------------------------------------
 		</td>
 
 	</tr>
@@ -199,7 +199,7 @@ $bloque3 = <<<EOF
 		<td style="width:160px;">
 			<br>
 			<br>
-			Muchas gracias por su compra
+			Le agradecemos su compra!
 		</td>
 
 	</tr>

@@ -23,6 +23,38 @@ body {
   overflow-x: hidden;
   overflow-y: auto;
 }
+/*Ayuda*/
+  .content-help {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      margin: 15px;
+      padding: 5px;
+      border: 1px solid #ccc;
+      background: url('../img/boxed-bg.jpg') repeat fixed;
+  }
+
+  header {
+      margin-bottom: 10px;
+  }
+
+  h1 {
+      font-size: 30px;
+  }
+
+  main {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+
+  embed {
+      width: 800px;
+      height: 1100px;
+  }
+
 /* Layout */
 .wrapper {
   height: 100%;

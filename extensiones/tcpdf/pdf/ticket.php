@@ -74,7 +74,6 @@ $bloque1 = <<<EOF
 				Sistema Galy Studio
 				
 				<br>
-				RUC: J03234567
 
 				<br>
 				Dirección: Calle 44B 92-11
@@ -157,7 +156,7 @@ $bloque3 = <<<EOF
 		</td>
 
 		<td style="width:80px;">
-			$ $neto
+			C$ $neto
 		</td>
 
 	</tr>
